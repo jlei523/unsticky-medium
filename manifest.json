@@ -2,7 +2,7 @@
   "name": "Unsticky Medium",
   "description":
     "Unsticky the header and footer on sites that use the Medium.com platform",
-  "version": "2.0",
+  "version": "1.0",
   "permissions": ["activeTab"],
   "background": {
     "scripts": ["background.js"],
